@@ -2,7 +2,7 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey Ayeisha23!
+Hey Ayeisha23! This is for Introduction to Github Assignment!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
